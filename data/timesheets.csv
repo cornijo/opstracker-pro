@@ -1,0 +1,74 @@
+User,Date,Project,Hours,Description,Task,Notes,Status,SubmittedAt,ReviewedBy,ReviewedAt
+John Cornias,2026-02-09,PROJ-001 (Internal),10.0,,,,Draft,,,
+John Cornias,2026-02-10,PROJ-999 (Overhead),10.0,,,,Draft,,,
+Test Employee ,2026-02-15,MaRS Support ,9.5,,MaRS ATL Site Support,,Approved,2026-02-16T17:47:40.087952,John Cornias,2026-02-24T08:37:40.833793
+Test Employee ,2026-02-16,MaRS Support ,9.5,,MaRS ATL Site Support,,Approved,2026-02-16T17:47:40.087952,John Cornias,2026-02-24T08:37:40.833793
+Test Employee ,2026-02-17,MaRS Support ,9.5,,MaRS ATL Site Support,,Approved,2026-02-16T17:47:40.087952,John Cornias,2026-02-24T08:37:40.833793
+Test Employee ,2026-02-20,MaRS Support ,9.5,,MaRS ATL Site Support,,Approved,2026-02-16T17:47:40.087952,John Cornias,2026-02-24T08:37:40.833793
+Test Employee ,2026-02-21,MaRS Support ,9.5,,MaRS ATL Site Support,,Approved,2026-02-16T17:47:40.087952,John Cornias,2026-02-24T08:37:40.833793
+Test Employee Manager,2026-02-15,MaRS Support ,4.0,,MaRS INDY Site Support,Travel to site to observe OJT ,Approved,2026-02-17T07:56:26.235294,John Cornias,2026-02-24T08:37:42.834296
+Test Employee Manager,2026-02-16,MaRS Support ,10.0,,MaRS INDY Site Support,Travel to site to observe OJT ,Approved,2026-02-17T07:56:26.235294,John Cornias,2026-02-24T08:37:42.834296
+Test Employee Manager,2026-02-17,MaRS Support ,10.0,,MaRS INDY Site Support,Travel to site to observe OJT ,Approved,2026-02-17T07:56:26.235294,John Cornias,2026-02-24T08:37:42.834296
+Test Employee Manager,2026-02-18,MaRS Support ,10.0,,MaRS INDY Site Support,Travel to site to observe OJT ,Approved,2026-02-17T07:56:26.235294,John Cornias,2026-02-24T08:37:42.834296
+Test Employee Manager,2026-02-19,MaRS Support ,11.0,,MaRS INDY Site Support,Travel to site to observe OJT ,Approved,2026-02-17T07:56:26.235294,John Cornias,2026-02-24T08:37:42.834296
+Test Employee Manager,2026-02-20,MaRS Support ,10.0,,MaRS INDY Site Support,Travel to site to observe OJT ,Approved,2026-02-17T07:56:26.235294,John Cornias,2026-02-24T08:37:42.834296
+Test Employee Manager,2026-02-21,MaRS Support ,1.0,,MaRS INDY Site Support,Travel to site to observe OJT ,Approved,2026-02-17T07:56:26.235294,John Cornias,2026-02-24T08:37:42.834296
+John Cornias,2026-02-09,PROJ-001 (Internal),10.0,,,,Draft,,,
+John Cornias,2026-02-10,PROJ-001 (Internal),10.0,,,,Draft,,,
+John Cornias,2026-02-11,PROJ-001 (Internal),10.0,,,,Draft,,,
+John Cornias,2026-02-12,PROJ-001 (Internal),10.0,,,,Draft,,,
+John Cornias,2026-02-13,PROJ-001 (Internal),5.0,,,,Draft,,,
+John Cornias,2026-02-23,MaRS Support ,0.5,,General,,Approved,2026-02-17T09:18:41.270211,John Cornias,2026-02-24T08:37:43.790667
+Justin Brown,2026-02-15,MaRS Support ,10.0,,MaRS ATL Site Support,,Approved,2026-02-17T09:44:00.120675,John Cornias,2026-02-24T08:37:44.605501
+Justin Brown,2026-02-16,MaRS Support ,10.0,,MaRS ATL Site Support,,Approved,2026-02-17T09:44:00.120675,John Cornias,2026-02-24T08:37:44.605501
+Justin Brown,2026-02-17,MaRS Support ,10.0,,MaRS ATL Site Support,,Approved,2026-02-17T09:44:00.120675,John Cornias,2026-02-24T08:37:44.605501
+Justin Brown,2026-02-18,MaRS Support ,10.0,,MaRS ATL Site Support,,Approved,2026-02-17T09:44:00.120675,John Cornias,2026-02-24T08:37:44.605501
+Justin Brown,2026-02-19,MaRS Support ,10.0,,MaRS ATL Site Support,,Approved,2026-02-17T09:44:00.120675,John Cornias,2026-02-24T08:37:44.605501
+Justin Brown,2026-02-20,MaRS Support ,10.0,,MaRS ATL Site Support,,Approved,2026-02-17T09:44:00.120675,John Cornias,2026-02-24T08:37:44.605501
+Justin Brown,2026-02-21,MaRS Support ,10.0,,MaRS ATL Site Support,,Approved,2026-02-17T09:44:00.120675,John Cornias,2026-02-24T08:37:44.605501
+Justin Brown,2026-02-08,MaRS Support ,10.0,,General,,Approved,2026-02-17T09:46:37.322401,John Cornias,2026-02-24T08:37:45.425787
+Justin Brown,2026-02-09,MaRS Support ,10.0,,General,,Approved,2026-02-17T09:46:37.322401,John Cornias,2026-02-24T08:37:45.425787
+Justin Brown,2026-02-10,MaRS Support ,10.0,,General,,Approved,2026-02-17T09:46:37.322401,John Cornias,2026-02-24T08:37:45.425787
+Justin Brown,2026-02-11,MaRS Support ,10.0,,General,,Approved,2026-02-17T09:46:37.322401,John Cornias,2026-02-24T08:37:45.425787
+Justin Brown,2026-02-12,MaRS Support ,10.0,,General,,Approved,2026-02-17T09:46:37.322401,John Cornias,2026-02-24T08:37:45.425787
+Justin Brown,2026-02-13,MaRS Support ,10.0,,General,,Approved,2026-02-17T09:46:37.322401,John Cornias,2026-02-24T08:37:45.425787
+Justin Brown,2026-02-14,MaRS Support ,10.0,,General,,Approved,2026-02-17T09:46:37.322401,John Cornias,2026-02-24T08:37:45.425787
+Test Employee ,2026-02-22,MaRS Support ,0.5,,MaRS ATL Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-23,MaRS Support ,2.25,,MaRS ATL Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-24,MaRS Support ,2.25,,MaRS ATL Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-25,MaRS Support ,2.25,,MaRS ATL Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-26,MaRS Support ,2.25,,MaRS ATL Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-27,MaRS Support ,2.25,,MaRS ATL Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-28,MaRS Support ,0.5,,MaRS ATL Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-22,MaRS Support ,0.5,,MaRS CHI Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-23,MaRS Support ,2.25,,MaRS CHI Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-24,MaRS Support ,2.25,,MaRS CHI Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-25,MaRS Support ,2.25,,MaRS CHI Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-26,MaRS Support ,2.25,,MaRS CHI Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-27,MaRS Support ,2.25,,MaRS CHI Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-28,MaRS Support ,0.5,,MaRS CHI Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-22,MaRS Support ,0.5,,MaRS INDY Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-23,MaRS Support ,2.25,,MaRS INDY Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-24,MaRS Support ,2.25,,MaRS INDY Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-25,MaRS Support ,2.25,,MaRS INDY Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-26,MaRS Support ,2.25,,MaRS INDY Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-27,MaRS Support ,2.25,,MaRS INDY Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-28,MaRS Support ,0.5,,MaRS INDY Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-22,MaRS Support ,0.5,,MaRS NJ Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-23,MaRS Support ,2.25,,MaRS NJ Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-24,MaRS Support ,2.25,,MaRS NJ Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-25,MaRS Support ,2.25,,MaRS NJ Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-26,MaRS Support ,2.25,,MaRS NJ Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-27,MaRS Support ,2.25,,MaRS NJ Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee ,2026-02-28,MaRS Support ,0.5,,MaRS NJ Site Support,,Approved,2026-02-24T08:49:46.707715,John Cornias,2026-02-24T10:30:20.479884
+Test Employee Manager,2026-02-23,MaRS ,8.0,,MaRS_Project_Management,,Submitted,2026-02-24T10:57:04.134121,,
+Test Employee Manager,2026-02-24,MaRS ,8.0,,MaRS_Project_Management,,Submitted,2026-02-24T10:57:04.134121,,
+Test Employee Manager,2026-02-25,MaRS ,8.0,,MaRS_Project_Management,,Submitted,2026-02-24T10:57:04.134121,,
+Test Employee Manager,2026-02-26,MaRS ,8.0,,MaRS_Project_Management,,Submitted,2026-02-24T10:57:04.134121,,
+Test Employee Manager,2026-02-27,MaRS ,8.0,,MaRS_Project_Management,,Submitted,2026-02-24T10:57:04.134121,,
+Justin Brown,2026-02-23,MaRS ,10.0,,MaRS_ATL_SUPPORT,,Submitted,2026-02-24T10:57:09.233529,,
+Justin Brown,2026-02-24,MaRS ,10.0,,MaRS_ATL_SUPPORT,,Submitted,2026-02-24T10:57:09.233529,,
+Justin Brown,2026-02-25,MaRS ,10.0,,MaRS_ATL_SUPPORT,,Submitted,2026-02-24T10:57:09.233529,,
+Justin Brown,2026-02-26,MaRS ,10.0,,MaRS_ATL_SUPPORT,,Submitted,2026-02-24T10:57:09.233529,,
+Justin Brown,2026-02-27,MaRS ,10.0,,MaRS_ATL_SUPPORT,,Submitted,2026-02-24T10:57:09.233529,,
+Justin Brown,2026-02-28,MaRS ,10.0,,MaRS_ATL_SUPPORT,,Submitted,2026-02-24T10:57:09.233529,,

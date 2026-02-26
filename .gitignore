@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+data/employees.json
+data/gsa_rates_cache.json
+data/receipts/
+data/pto_email_log.txt
+.DS_Store
+*.xlsx
