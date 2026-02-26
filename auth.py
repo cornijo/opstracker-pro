@@ -47,9 +47,22 @@ def ensure_passwords_exist():
     Ensure all employees have a password_hash field.
     Employees without a password get a default password = their email address.
     The admin (first user) gets 'admin123' as default if no password set.
+    If no employees exist at all, create a default admin account.
     """
     data = _load_employees()
     changed = False
+
+    # If no employees exist, create default admin
+    if not data["employees"]:
+        data["employees"].append({
+            "name": "John Cornias",
+            "email": "john.cornias@retiina.com",
+            "role": "admin",
+            "manager": "",
+            "password_hash": _hash_password("admin123")
+        })
+        changed = True
+
     for i, emp in enumerate(data["employees"]):
         if "password_hash" not in emp or not emp["password_hash"]:
             # Set default password to the employee's email, or 'admin123' for first admin
