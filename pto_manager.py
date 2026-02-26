@@ -88,17 +88,23 @@ def get_employee(name):
 
 def add_employee(name, email, role="employee", manager_email="", hire_date=None, accrual_rate=None):
     """Add a new employee."""
+    from auth import _hash_password
     data = load_employees()
     if any(e["name"].lower() == name.lower() for e in data["employees"]):
         return False  # Already exists
+    
+    # Generate default password (use email, stripped of spaces)
+    default_pw = email.strip() if email else "password123"
+
     data["employees"].append({
-        "name": name,
-        "email": email,
+        "name": name.strip(),
+        "email": email.strip() if email else "",
         "role": role,
         "manager_email": manager_email,
         "hire_date": (hire_date or datetime.date.today()).isoformat(),
         "pto_accrual_rate": accrual_rate or DEFAULT_PTO_ACCRUAL_HOURS_PER_MONTH,
         "pto_carryover": 0,
+        "password_hash": _hash_password(default_pw),
     })
     save_employees(data)
     return True
