@@ -2076,7 +2076,7 @@ with tabs_dict["PTO Management"]:
                         st.text(f"Email: {emp['email']}")
                         st.text(f"Manager: {emp.get('manager_email', 'N/A')}")
                     with pc2:
-                        st.text(f"Hire Date: {emp['hire_date']}")
+                        st.text(f"Hire Date: {emp.get('hire_date', 'Not set')}")
                         st.text(f"Accrual: {emp.get('pto_accrual_rate', DEFAULT_PTO_ACCRUAL_HOURS_PER_MONTH)} hrs/month")
 
                     # Quick role update
