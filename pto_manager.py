@@ -384,7 +384,10 @@ def calculate_accrued_pto(employee_name, as_of_date=None):
     if as_of_date is None:
         as_of_date = datetime.date.today()
 
-    hire = datetime.date.fromisoformat(emp["hire_date"])
+    hire_str = emp.get("hire_date", "2025-01-01")
+    if not hire_str:
+        hire_str = "2025-01-01"
+    hire = datetime.date.fromisoformat(hire_str)
     if as_of_date < hire:
         return 0
 

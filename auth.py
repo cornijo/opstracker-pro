@@ -59,6 +59,8 @@ def ensure_passwords_exist():
             "email": "john.cornias@retiina.com",
             "role": "admin",
             "manager": "",
+            "hire_date": "2025-01-01",
+            "pto_hours": 120,
             "password_hash": _hash_password("admin123")
         })
         changed = True
